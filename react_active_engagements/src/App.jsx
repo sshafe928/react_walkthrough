@@ -1,5 +1,5 @@
 
-import TestComponent from './tutorial/01-useState/5.1-exit ticket'
+import TestComponent from './tutorial/03-useEffect/3-useEffect-fetch-data'
 
 function App() {
   return (
