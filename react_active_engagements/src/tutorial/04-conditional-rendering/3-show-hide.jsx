@@ -12,9 +12,9 @@ const ShowHide = () => {
 }
 
 const Item = () => {
-    const [size, setSize] = useState(window.innerWidth, window.innerHeight)
+    const [size, setSize] = useState(window.innerWidth)
     const checkSize=()=>{
-        setSize([window.innerWidth, window.innerHeight])
+        setSize([window.innerWidth])
     }
 
     useEffect(() => {
