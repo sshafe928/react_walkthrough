@@ -1,5 +1,5 @@
 
-import TestComponent from './tutorial/03-useEffect/3-useEffect-fetch-data'
+import TestComponent from './tutorial/04-conditional-rendering/3-show-hide'
 
 function App() {
   return (
